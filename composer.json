@@ -5,7 +5,7 @@
     "type": "symfony-bundle",
     "require": {
         "php": ">=7.0",
-        "propel/propel-bundle": "~4.0@dev"
+        "propel/propel-bundle": "dev-main"
     },
     "autoload": {
         "psr-4": {
